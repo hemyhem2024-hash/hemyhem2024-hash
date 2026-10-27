@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**hemyhem2024-hash/hemyhem2024-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Hemy 👋 | 🛡️ Cyber Security Analyst
 
-Here are some ideas to get you started:
+## 🛡️ About Me
+Cyber Security Analyst passionate about protecting digital assets. Based in Eldoret, Kenya - open to remote opportunities worldwide.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔍 **Focus:** SOC Analysis | Threat Detection | Incident Response | Vulnerability Assessment
+- 🎯 **Labs:** TryHackMe (Top 5%), HackTheBox, OverTheWire
+- 🛠️ **Tools:** SIEM (Splunk, Wazuh), Nmap, Burp Suite, Wireshark, Metasploit, Linux, Python
+- 📜 **Learning:** Security+, CEH, SOC Level 1
+
+## 💼 Skills
+`Threat Hunting` `SIEM` `Incident Response` `Penetration Testing` `Network Security` `OSINT` `Python` `Bash` `Linux`
+
+## 🚀 Featured Projects
+- **SOC Home Lab** - Built SIEM lab with Wazuh for real-time threat monitoring
+- **Python Port Scanner** - Custom port scanner for network reconnaissance
+- **Phishing Analysis** - Analyzed and documented phishing email indicators
+
+## 📫 Connect With Me
+- 📍 Nairobi Kenya| Remote Available
+- 💼 LinkedIn: https://www.linkedin.com/in/hem-hem-76796a446
+- 📧 Email: hemyhem2024@gmail.com
+
+> "Securing the digital world, one threat at a time
